@@ -2,8 +2,7 @@
 
 Welcome to **LinearPy**, a project that implements core linear modeling techniques from scratch using only NumPy. This includes both regression and classification tasks—from simple Linear Regression to more advanced classifiers like and Softmax Regression. Linear modeling is a cornerstone of machine learning and deep learning foundations, and by developing each component manually, we gain strong intuition about how these models operate, optimize, and generalize. Every model is provided as a reusable class with a consistent API and includes support for ElasticNet Regularization and Learning Rate Schedules; classifiers also offer `predict_proba()` to estimate class probabilities.
 
-**🌐 Note:** If you experience issues viewing project's notebook on GitHub, you can view it online via <a href="https://colab.research.google.com/github/hoom4n/LinearPy/blob/main/LinearPy.ipynb">Google Colab</a> or <a href="https://nbviewer.org/github/hoom4n/LinearPy/blob/main/LinearPy.ipynb"> NB Viewer</a>
-
+🌐 **Note:** If you experience issues viewing the project's notebook on GitHub, you can open it online via <a href="https://nbviewer.org/github/hoom4n/LinearPy/blob/main/LinearPy.ipynb">NB Viewer</a>
 ---
 
 ## 📖 Overview

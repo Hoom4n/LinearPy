@@ -93,7 +93,6 @@ from hoomanmltk.linear.classification import SoftmaxRegression
 model = SoftmaxRegression(alpha=0.5, lambda_=0.1)
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
-```
 
 ```
 ```
